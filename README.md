@@ -9,6 +9,6 @@
 6. DO NOT BOTHER ABOUT STYLING
 7. Endeavor to complete this task starting from task 2 within 45 minutes.
 
-Note, very ugly
+Note, very ugly UI
 ![filter_events_screenshot](https://user-images.githubusercontent.com/10738882/185258960-b08c5d0b-5aa1-4721-8a29-80a4b8d9c865.png)
 
